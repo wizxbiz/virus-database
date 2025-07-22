@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-01-15T10:00:00Z",
+  "total_count": 15,
+  "description": "Virus package database for Android security scanning",
+  "packages": [
+    "com.malicious.fakebank",
+    "com.adware.popupspam", 
+    "com.trojan.stealdata",
+    "com.fake.antivirus.pro",
+    "com.malware.cryptominer",
+    "com.spyware.keylogger",
+    "com.ransomware.locky",
+    "com.phishing.banklogin",
+    "com.backdoor.remote",
+    "com.rootkit.stealth",
+    "com.botnet.zombie",
+    "com.scareware.fake.security",
+    "com.adware.aggressive",
+    "com.trojan.banking",
+    "com.malware.dropper"
+  ]
+}
